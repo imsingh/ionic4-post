@@ -9,7 +9,7 @@
 ### Migration
 
 ## Stencil
-### Using Ionic with Angular
+### Using Ionic with Stencil
 
 ## Building Native Apps with Capacitor
 
